@@ -1,1 +1,1 @@
-# geradorEtiquetas
+# Gerador Etiquetas
